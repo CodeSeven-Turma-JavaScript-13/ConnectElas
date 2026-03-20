@@ -1,5 +1,5 @@
 
-<div style="display: flex; align-items: center; margin: 0; padding: 0;"><h1 style="margin: 0; padding: 0;">ConnectElas</h1>
+<div align="center"><h1>ConnectElas</h1>
  </div>
 
 
