@@ -8,7 +8,7 @@
 
 O **ConnectElas** é uma plataforma de empregos desenvolvida para pessoas que estão em busca da sua primeira oportunidade na área da tecnologia tendo como público alvo mulheres 30+. A plataforma utiliza um CRM para gerenciar candidaturas e vagas, organizando todo o fluxo de forma automatizada. Ele permite que recrutadores publiquem vagas e que candidatas acompanhem suas candidaturas, garantindo um processo ágil, eficiente e personalizado.
 
----
+----README.
 
 ## 📋 Sobre o Projeto
 
