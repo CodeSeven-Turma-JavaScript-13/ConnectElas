@@ -1,8 +1,6 @@
 
 <div style="display: flex; align-items: center; margin: 0; padding: 0;"><h1 style="margin: 0; padding: 0;">ConnectElas</h1>
-  <img src="https://ik.imagekit.io/majulial/CRM/Gemini_Generated_Image_sxhu1nsxhu1nsxhu%20(1).png"
-       width="80"
-       style="margin: 0; padding: 0;" /></div>
+ </div>
 
 
 
